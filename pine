@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+<style>
+nav {
+	border: 3px solid red;
+	;
+	border-bottom-left-radius: 100px;
+	-webkit-border-bottom-right-radius: 100px;
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	width: 120px;
+	height: 150px;
+	text-align: center;
+	margin-left: 30%;
+	margin-top: 5%;
+	padding-top: 11%;
+	;
+	;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: cabin sketch;
+	font-size-adjust: bold;
+}
+.nav {
+	display: inline-block;
+	width: 10%;
+	height: 10%;
+	background-color: green;
+	color: brown;
+}
+h4 {
+	text-align: center;
+}
+body h4 {
+	font-family: cabin sketch;
+	color: brown;
+	font-size: 4em;
+	text-shadow: 2px, 2px, 2px, black;
+}
+body h4 {
+}
+#image img {
+}
+header .nav {
+}
+#image {
+	display: flex;
+	align-content: space-around;
+	margin-left: 20%;
+}
+body h3 {
+	text-align: right;
+}
+
+#body h3 a {
+	color: brown;
+	text-shadow: 2px 2px 1px black;
+}
+#body {
+	background-color: #97dd78;
+}
+
+@media (orientation:portrait){
+}
+
+@media (max-height:800px) and (width:600px){
+}
+
+@media (orientation:portrait){
+}
+
+@media projection{
+}
+#image{
+	display: flex;
+	align-content:space-around;
+	
+	alignment-adjust:auto
+	
+<meta charset="UTF-8">
+<title>Git Tree Practice</title>
+<link href="file:///Macintosh HD/Users/erika/Documents/trees project/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+h3{
+	text-align: right;
+}
+
+</style>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<div class="container">
+<body id= "body">
+<h3><a>Trees of The Sierra Nevada </a></h3>
+
+
+
+<hr>
+<h4> Pine Tree</h4>
+<section id="image">
+<img src="pine.jpg" alt = "yosemite pics" width="417" />
+</section>
+</div>
+</body>
+</html>
